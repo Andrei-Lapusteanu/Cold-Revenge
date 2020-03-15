@@ -25,8 +25,9 @@
 	- **WASD** walk
 	- **LShift** sprint
 	- **Space** jump
-- 
+- Select ammo types with **1, 2, 3** keys
+- **Tab** for game menu & power-ups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE2MTc2NzNdfQ==
+eyJoaXN0b3J5IjpbLTc5OTgyNDczNF19
 -->
