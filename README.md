@@ -13,8 +13,9 @@
 - Horde type first-person-shooter
 - Enemies are refrigerators which have a **melee** as well as **ranged** attack, in which they throw back at you the vegetables you've shot
 - There are in total **3** types of vegetables (ammo): Cabbage, Carrot and Tomatoes
-- Each eney has different randomized requirements to be eliminated
+- Each enemy has different randomized requirements which need to be fulfilled in order to be eliminated
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA5MjM3MDhdfQ==
+eyJoaXN0b3J5IjpbLTEwNzk0Nzc1NTddfQ==
 -->
