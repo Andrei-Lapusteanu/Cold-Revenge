@@ -2,6 +2,10 @@
 
 3D FPS game developed in Unity in which you have to eliminate the refrigerators attack you
 
+## Synopsis
+
+*You're Steve, a refrigerator repairman. You were sent here to take care of the matter, but the fridges have other plans. Somehow they came to life and aren't happy to see you. Luck has it that you found a cannon that can fire vegetables, this should probably deal with the fridges.*
+
 # Technologies
 
 - Developed using **Unity** in **C#**
@@ -29,5 +33,5 @@
 - **Tab** for game menu & power-ups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTgyNDczNF19
+eyJoaXN0b3J5IjpbMTYwNDUyNzU5MiwtNzk5ODI0NzM0XX0=
 -->
