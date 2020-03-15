@@ -15,10 +15,18 @@
 - There are in total **3** types of vegetables (ammo): **Cabbage, Carrot** and **Tomatoes**
 - Each enemy has **different randomized requirements** which need to be fulfilled in order to be **eliminated**
 - **Player** has health and money system
-- **Money** can be earned by eliminating refrigerators, which can be used on **power-ups**, which are:
+- **Money** can be earned by eliminating refrigerators, which can be used on **timed power-ups**, which are:
 	- **Double fire rate**
-	- **Fire three (proje
+	- **Fire three (projectiles) at once**
+	- **Invulnerability**
+
+## Controls
+- Standard movement:
+	- **WASD** walk
+	- **LShift** sprint
+	- **Space** jump
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTI0MTA5Nl19
+eyJoaXN0b3J5IjpbLTE4NjE2MTc2NzNdfQ==
 -->
