@@ -2,11 +2,7 @@
 
 3D FPS game developed in Unity in which you have to eliminate the refrigerators attack you
 
-<a href="https://imgur.com/260Vf2V"><img src="https://i.imgur.com/260Vf2V.gif" title="source: imgur.com" /></a>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/4gQAHFL"><a href="//imgur.com/a/4gQAHFL">hai odata</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<iframe class="imgur-embed" width="100%" height="658" frameborder="0" src="https://i.imgur.com/UoYn7Td.gifv#embed"></iframe>
+<a href="https://imgur.com/tyKNdvq"><img src="https://i.imgur.com/tyKNdvq.mp4" title="source: imgur.com" /></a>
 
 ## Synopsis
 
@@ -39,7 +35,8 @@
 - **Tab** for game menu & power-ups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzc2NTE1OSwtMTIwNjI3ODAyOCw2Mz
-U3MDk3MTYsLTIzOTI3NDMwMywtNTI3ODUyNTA2LC0yOTU0NTk3
-NzYsMTYwNDUyNzU5MiwtNzk5ODI0NzM0XX0=
+eyJoaXN0b3J5IjpbMTg2NDI1NDY1NywxNTI3NzY1MTU5LC0xMj
+A2Mjc4MDI4LDYzNTcwOTcxNiwtMjM5Mjc0MzAzLC01Mjc4NTI1
+MDYsLTI5NTQ1OTc3NiwxNjA0NTI3NTkyLC03OTk4MjQ3MzRdfQ
+==
 -->
