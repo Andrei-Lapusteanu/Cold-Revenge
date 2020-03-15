@@ -5,8 +5,14 @@
 # Technologies
 
 - Developed using **Unity** in **C#**
--  Some game assets used are from the Unity asset store
+- Refrigerators modeled in **Maya**
+- Other game assets used are from the Unity asset store
+
+# Functionality
+
+- Horde type first-person-shooter
+- Enemie are refrigerators which have a **melee** as well as **ranged** attack, in which they 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTk1MTA3NV19
+eyJoaXN0b3J5IjpbLTgyMTUxNTIzNF19
 -->
