@@ -1,6 +1,6 @@
 # Cold-Revenge
 
-3D FPS game developed in Unity in which you have to eliminate the refrigerators attack you
+3D FPS game developed in Unity in which you have to eliminate the refrigerators attacking you
 
 <a href="https://imgur.com/OhnpKTS"><img src="https://i.imgur.com/OhnpKTS.gif" title="source: imgur.com" /></a>
 
